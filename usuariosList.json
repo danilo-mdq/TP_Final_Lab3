@@ -1,0 +1,55 @@
+[ [ "com.company.Administrador", {
+  "nombre" : "Bruno",
+  "apellido" : "Fabrizio",
+  "dni" : "40579965",
+  "usuario" : "brunofz",
+  "constrasena" : "1759",
+  "activo" : true
+} ], [ "com.company.Administrador", {
+  "nombre" : "Danilo",
+  "apellido" : "Suarez",
+  "dni" : "33102857",
+  "usuario" : "danilomdq",
+  "constrasena" : "2481",
+  "activo" : true
+} ], [ "com.company.Conserje", {
+  "nombre" : "Ezequiel",
+  "apellido" : "Rage",
+  "dni" : "27123123",
+  "usuario" : "eze",
+  "constrasena" : "1234",
+  "activo" : true
+} ], [ "com.company.Pasajero", {
+  "nombre" : "Carlos",
+  "apellido" : "Miranda",
+  "dni" : "32123123",
+  "usuario" : "charly",
+  "constrasena" : "1234",
+  "activo" : true,
+  "direccion" : "Funes 2461",
+  "telefono" : "2236688139",
+  "email" : "charly@gmail.com",
+  "reserva" : null
+} ], [ "com.company.Pasajero", {
+  "nombre" : "Gina",
+  "apellido" : "Fabrizio",
+  "dni" : "30123543",
+  "usuario" : "gi",
+  "constrasena" : "1234",
+  "activo" : true,
+  "direccion" : "Las heras 2461",
+  "telefono" : "223599889",
+  "email" : "gina@gmail.com",
+  "reserva" : null
+} ], [ "com.company.Pasajero", {
+  "nombre" : "Gustavo",
+  "apellido" : "Manzo",
+  "dni" : "47676667",
+  "usuario" : "gustavo",
+  "constrasena" : "1234",
+  "activo" : true,
+  "direccion" : "20 de Septiembre 2461",
+  "telefono" : "223887767",
+  "email" : "gustavo@gmail.com",
+  "reserva" : null
+} ] ]

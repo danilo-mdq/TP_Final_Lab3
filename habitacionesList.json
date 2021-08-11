@@ -1,0 +1,171 @@
+[ {
+  "piso" : "1",
+  "numero" : "1",
+  "tipo" : "INDIVIDUAL",
+  "regimenComida" : null,
+  "precio" : 333.45,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "1",
+  "numero" : "2",
+  "tipo" : "INDIVIDUAL",
+  "regimenComida" : null,
+  "precio" : 333.45,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "1",
+  "numero" : "3",
+  "tipo" : "INDIVIDUAL",
+  "regimenComida" : null,
+  "precio" : 333.45,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "1",
+  "numero" : "4",
+  "tipo" : "INDIVIDUAL",
+  "regimenComida" : null,
+  "precio" : 333.45,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "2",
+  "numero" : "5",
+  "tipo" : "TRIPLE",
+  "regimenComida" : null,
+  "precio" : 900.3,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "2",
+  "numero" : "6",
+  "tipo" : "TRIPLE",
+  "regimenComida" : null,
+  "precio" : 900.3,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "2",
+  "numero" : "7",
+  "tipo" : "TRIPLE",
+  "regimenComida" : null,
+  "precio" : 900.3,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "2",
+  "numero" : "8",
+  "tipo" : "TRIPLE",
+  "regimenComida" : null,
+  "precio" : 900.3,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "3",
+  "numero" : "9",
+  "tipo" : "QUEEN",
+  "regimenComida" : null,
+  "precio" : 650.7,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "3",
+  "numero" : "10",
+  "tipo" : "QUEEN",
+  "regimenComida" : null,
+  "precio" : 650.7,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "3",
+  "numero" : "11",
+  "tipo" : "QUEEN",
+  "regimenComida" : null,
+  "precio" : 650.7,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "3",
+  "numero" : "12",
+  "tipo" : "QUEEN",
+  "regimenComida" : null,
+  "precio" : 650.7,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "3",
+  "numero" : "13",
+  "tipo" : "QUEEN",
+  "regimenComida" : null,
+  "precio" : 650.7,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "4",
+  "numero" : "14",
+  "tipo" : "DOBLE",
+  "regimenComida" : null,
+  "precio" : 550.9,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "4",
+  "numero" : "15",
+  "tipo" : "DOBLE",
+  "regimenComida" : null,
+  "precio" : 550.9,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "4",
+  "numero" : "16",
+  "tipo" : "DOBLE",
+  "regimenComida" : null,
+  "precio" : 550.9,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+}, {
+  "piso" : "4",
+  "numero" : "17",
+  "tipo" : "DOBLE",
+  "regimenComida" : null,
+  "precio" : 550.9,
+  "dniPasajero" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "estado" : "LIBRE"
+} ]
